@@ -42,3 +42,4 @@ class person {
 }
 
 const person1 = new person(123, "string")
+
