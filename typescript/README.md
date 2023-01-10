@@ -17,4 +17,4 @@ node basics.js
 
 
 - ``` tsc --watch``` - continuous compiling
-- 
+-  
